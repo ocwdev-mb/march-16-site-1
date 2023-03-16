@@ -1,0 +1,29 @@
+{
+  "term": "Summer",
+  "year": "2027",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "march-16-site-1"
+  },
+  "course_image": {
+    "content": "",
+    "website": "march-16-site-1"
+  },
+  "course_title": "March 16 site 1",
+  "course_description": "dsfsdfsdf",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.16.1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "march-16-site-1"
+  },
+  "learning_resource_types": [],
+  "site_uid": "e6c75580-3d3c-48ad-b352-4fde24b052b0",
+  "site_short_id": "march-16-site-1"
+}
